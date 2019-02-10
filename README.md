@@ -1,4 +1,4 @@
-#jkk-notify
+# jkk-notify
 Send search result of JKK website to LINE client by using LINE Notify.
 
 ## Installation
